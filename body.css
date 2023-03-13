@@ -3,3 +3,7 @@ body {
     font-style: inherit;
     font-size: 30px;
 }
+
+button {
+    solid: bold;
+}
